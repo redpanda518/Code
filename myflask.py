@@ -13,6 +13,6 @@ def projects():
 def about():
 	return 'The about page'
 
-
+#保证这个模块是在运行而不是被导入时使用
 if __name__=='__main__':
 	app.run(debug=True)
