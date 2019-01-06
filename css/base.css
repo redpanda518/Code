@@ -141,3 +141,17 @@ select,input{
 	text-align: center;
 	padding:0 0 8px 26px;
 }
+/*content模块内样式*/
+.content-news{
+	background-color: #fff;
+	border: 1px solid #f4f6fa;
+}
+.content-close .caption,.content-news .caption{
+	height: 38px;
+	line-height: 38px;
+	background-color: #f4f6fa;
+	text-indent: 20px;
+	color: #fec009;
+	font-size: 15px;
+}
+.cont
